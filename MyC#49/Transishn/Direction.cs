@@ -6,16 +6,19 @@ using System.Threading.Tasks;
 
 namespace MyC_49.Transishn
 {
-    internal class Direction
+    public class Direction
     {
-        public Direction(int id, string from, string to, int km, decimal price, decimal caficent)
+        public Direction()
+        {
+        }
+
+        public Direction(int id, string from, string to, int km, decimal price)
         {
             Id = id;
             From = from;
             To = to;
             Km = km;
             Price = price;
-            Caficent = caficent;
         }
 
         public int Id { get; set; }
@@ -23,6 +26,5 @@ namespace MyC_49.Transishn
         public string To { get; set; }
         public int Km { get; set; }
         public decimal Price { get; set; }
-        public decimal Caficent { get; set; }
     }
 }

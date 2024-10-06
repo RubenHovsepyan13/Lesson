@@ -1,0 +1,7 @@
+C:\Users\MyASUS\source\repos\MyC#49\MyC#49\bin\Debug\MyC#49.exe.config
+C:\Users\MyASUS\source\repos\MyC#49\MyC#49\bin\Debug\MyC#49.exe
+C:\Users\MyASUS\source\repos\MyC#49\MyC#49\bin\Debug\MyC#49.pdb
+C:\Users\MyASUS\source\repos\MyC#49\MyC#49\obj\Debug\MyC#49.csproj.AssemblyReference.cache
+C:\Users\MyASUS\source\repos\MyC#49\MyC#49\obj\Debug\MyC#49.csproj.CoreCompileInputs.cache
+C:\Users\MyASUS\source\repos\MyC#49\MyC#49\obj\Debug\MyC#49.exe
+C:\Users\MyASUS\source\repos\MyC#49\MyC#49\obj\Debug\MyC#49.pdb

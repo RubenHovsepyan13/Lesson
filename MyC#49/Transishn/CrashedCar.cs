@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace MyC_49.Transishn
 {
-    internal class CrashedCar
+    public class CrashedCar
     {
         public CrashedCar()
         {

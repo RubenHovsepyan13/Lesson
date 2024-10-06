@@ -6,12 +6,13 @@ using System.Threading.Tasks;
 
 namespace MyC_49.Irepasiroti
 {
-    internal interface IRepasitori<T>
+    internal interface IRepasitori<TModel, TRequest>
     {
-        void Add(T t);
-        T Find(int Id);
-        List<T> FindAll();
-        void Update(T t); 
-        void Delete(int Id);
+        void Addd(TModel t);
+        TModel GetById(int Id);
+        List<TModel> GetAll();
+        void Updatee(TModel t);
+        void Deletee(int Id);
+        TModel Find(TRequest request);
     }
 }

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace MyC_49.Transishn
 {
-    internal class Cantainer
+    public class Cantainer
     {
         public Cantainer()
         {
